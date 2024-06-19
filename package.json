@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fake-useragent": "^1.0.1",
+    "webrtc-adapter": "^9.0.1"
+  }
+}

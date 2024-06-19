@@ -1,0 +1,29 @@
+Screen Resolution: 1680x1050
+
+Iniciando Bot
+
+Conectado ao Cloudflare Warp com sucesso!
+
+Email Digitado!
+
+
+Nome Gerado com sucesso!
+
+
+Username Gerado com sucesso!
+
+
+Verificando se tem captcha!
+
+
+Tem Captcher!
+
+
+Resolvendo Captcha!
+
+
+Captcha Resolvido!
+
+
+Tentativa 1 de 6: Elemento não encontrado. Tentando novamente...
+
